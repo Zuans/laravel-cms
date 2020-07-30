@@ -12,6 +12,8 @@
         <div class="offset-lg-1">
         </div>
         <div class="col-lg-10 ">
+            <h1 class="text-dark font-weight-bold ">Detail Post</h1>
+            <hr class="w-100 mt-5 d-flex justify-content-start" style="border : 1px solid gray;">
             <div class="post-wrapper ">
                 <div class="post-head p-3 py-4 text-dark row">
                     <div class="col-lg-4 d-flex-justify-content-center">
