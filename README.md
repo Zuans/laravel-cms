@@ -1,25 +1,26 @@
 <h1>Instalation</h1>
-&nbsp; account username:admin123   password:admin123 
+&nbsp; ADMIN ACCOUNT username:admin123   password:admin123 <br>
+&nbsp; CMD = type this command on your terminal ( make sure you in root folder ! )
 <h4># 1</h4>
-<p>npm install</p>
+<p>CMD ( npm install )</p>
 <h4># 2</h4>
-<p>npm run dev</p>
+<p>CMD ( npm run dev )</p>
 <h4># 3</h4>
-<p>composer update</p>
+<p>CMD ( composer update )</p>
 <h4># 4</h4>
-<p>composer install</p>
+<p>CMD ( composer install )</p>
 <h4># 5</h4>
-<p>create .env file and copy all from .env-example</p>
+<p>create .env file and copy all code from .env-example</p>
 <h4># 6</h4>
-<p>Set database name in .env </p>
+<p>Set database name in .env example = < DB_DATABASE=laravel-cms  > </p>
 <h4># 7</h4>
-<p>php artisan generate:key // For Generate APP_KEY </p>
+<p>CMD( php artisan key:generate ) // For Generate APP_KEY </p>
 <h4># 8</h4>
-<p>php artisan migrate</p>
+<p>CMD( php artisan migrate )</p>
 <h4># 9</h4>
-<p>php artisan db:seed // For permission role and insert admin account </p>
+<p>CMD ( php artisan db:seed ) //For permission role and insert admin account )</p>
 <h4># 10</h4>
-<p>php artisan storage:link // For connect img to storage ( can access thumbnail )  </p>
+<p>CMD ( php artisan storage:link  ) //For connect img to storage ( can access thumbnail )  </p>
 
 
 
