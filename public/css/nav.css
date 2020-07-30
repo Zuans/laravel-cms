@@ -1,0 +1,11 @@
+.nav-size {
+    height: 16.5vh;
+    font-size: 1.15rem;
+}
+
+@media (max-width: 700px ) {
+    .nav-size {
+        height: 6vh;
+        font-size: 1.15rem;
+    }
+}

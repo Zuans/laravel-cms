@@ -1,0 +1,20 @@
+.card {
+    border: none;
+}
+
+.card-body{
+    border-radius: 2rem;
+    box-shadow: 3px 3px 7px rgb(124, 124, 124);
+}
+
+#search{
+    border: none;
+    border-bottom: 2px solid gray;
+}
+
+.icons {
+    float: right;
+    margin-top: -6.3rem;
+    opacity: 0.6;
+    font-size: 5rem;
+}

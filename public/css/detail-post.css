@@ -1,0 +1,26 @@
+.post-wrapper{
+    padding: 2rem;
+}
+
+.post-img {
+    width: 13rem;
+    border-radius: 0.5rem;
+}
+
+p {
+    font-size: 16px;
+}
+
+@media screen and (max-width : 700px ) {
+    .post-img {
+        width: 10rem;
+        border-radius: 0.5rem;
+        display: block;
+        margin: auto;
+    }
+
+    .post-info {
+        margin-top: 20px;
+        text-align: center;
+    }
+}

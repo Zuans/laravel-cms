@@ -1,0 +1,15 @@
+.container-wrapper {
+    width: 100%;
+    min-height: 50vh;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 5.6px gray;
+    border-radius: 1rem;
+    padding: 2rem;
+    min-height: 100vh;
+
+}
+@media screen and (min-width:700px) {
+    .img-welcome {
+        margin-top: -4rem;
+    }
+}
