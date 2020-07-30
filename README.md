@@ -12,7 +12,7 @@
 <h4># 5</h4>
 <p>create .env file and copy all code from .env-example</p>
 <h4># 6</h4>
-<p>Set database name in .env example = < DB_DATABASE=laravel-cms  > </p>
+<p>Set database name in .env < DB_DATABASE=laravel-cms  > </p>
 <h4># 7</h4>
 <p>CMD( php artisan key:generate ) // For Generate APP_KEY </p>
 <h4># 8</h4>
