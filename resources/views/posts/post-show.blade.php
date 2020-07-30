@@ -20,6 +20,7 @@
                     <div class="col-lg-8 post-info">
                         <h1 id="title-post" class="font-weight-bold mt-2">{{ $post->title }}</h1 class="mt-5">
                         <h4 class="font-weight-bold mt-5">Author: {{ $post->author}}</h4>
+                        <h5 class="font-weight-bold">{{ $post->status}}</h5>
                         <p class="font-weight-bold">Created: {{ $post->created_at->diffForHumans() }}</p>
                     </div>
                 </div>

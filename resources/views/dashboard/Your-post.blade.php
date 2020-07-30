@@ -100,6 +100,7 @@
                                             @method('DELETE')
                                             <button class="btn btn-danger">Delete</button>
                                         </form>
+                                        <a href="{{ route('search.post',['id' => $data->id ]) }}" class="btn btn-secondary">See Post</a>
                                     </td>
                                 </tr>
                                 @endforeach
