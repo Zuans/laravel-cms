@@ -1,3 +1,28 @@
+<h1>Instalation</h1>
+&nbsp; account username:admin123   password:admin123 
+<h4># 1</h4>
+<p>npm install</p>
+<h4># 2</h4>
+<p>npm run dev</p>
+<h4># 3</h4>
+<p>composer update</p>
+<h4># 4</h4>
+<p>composer install</p>
+<h4># 5</h4>
+<p>create .env file and copy all from .env-example</p>
+<h4># 6</h4>
+<p>Set database name in .env </p>
+<h4># 7</h4>
+<p>php artisan generate:key // For Generate APP_KEY </p>
+<h4># 8</h4>
+<p>php artisan migrate</p>
+<h4># 9</h4>
+<p>php artisan db:seed // For permission role and insert admin account </p>
+<h4># 10</h4>
+<p>php artisan storage:link // For connect img to storage ( can access thumbnail )  </p>
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
